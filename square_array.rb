@@ -1,8 +1,8 @@
 
 
-def square_array(array)
-  array.each do|index|
+def square_array(numbers)
+  numbers.each do|index|
     index ** 2
-  return new_array
+  new_numbers
   end
 end
