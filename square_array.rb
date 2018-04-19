@@ -1,7 +1,7 @@
 
 
 def square_array(numbers)
-  numbers.each do |i| 
+  numbers.each do |i|
     i ** 2
   end
   numbers
